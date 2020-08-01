@@ -1,2 +1,2 @@
 # film networks
-![network](/images/logo.png)
+![network](/experiment1_60angleGraph_F.eps)
